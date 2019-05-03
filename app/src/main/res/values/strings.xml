@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Share</string>
+    <string name="detailHint">Share your feelings at this moment...... </string>
+    <string name="addImage">Add image</string>
+    <string name="changeImage">Change image</string>
+    <string name="choose_language">Choose your language</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="share_location">Share location</string>
+    <string name="send">Send</string>
+    <string name="requiredLocation">Required Location Permission</string>
+    <string name="permission">You have to give this permission to access this feature</string>
+    <string name="ok">OK</string>
+    <string name="errorMessage_photo">Please choose a photo</string>
+    <string name="errorMessage_writing">Please input your feeling at this moment</string>
+    <string name="confirm_requirement">Are you confirm to send your requirement?</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+    <string name="sending_successful">sending successful</string>
+    <string name="sending_unsuccessful">sending unsuccessful</string>
+    <string name="haveNotConnect">have not connect to server</string>
+    <string name="loading">loading...</string>
+    <string name="wait">Please wait...</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

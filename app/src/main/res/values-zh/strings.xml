@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">分享</string>
+    <string name="choose_language">選擇你的語言</string>
+    <string name="detailHint">分享你這一刻的心情......</string>
+    <string name="addImage">增加照片</string>
+    <string name="changeImage">更改照片e</string>
+    <string name="camera">相機</string>
+    <string name="gallery">相簿</string>
+    <string name="cancel">取消</string>
+    <string name="share_location">分享位置</string>
+    <string name="send">傳送</string>
+    <string name="requiredLocation">位置要求權限</string>
+    <string name="permission">您必須授予此權限才能訪問此功能</string>
+    <string name="ok">確認</string>
+    <string name="errorMessage_photo">請選擇一張照片</string>
+    <string name="errorMessage_writing">請輸入你即時的感受</string>
+    <string name="confirm_requirement">你確定要傳送你的要求嗎?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="sending_successful">傳送成功</string>
+    <string name="sending_unsuccessful">傳送失敗</string>
+    <string name="haveNotConnect">沒有連線</string>
+    <string name="loading">傅送中...</string>
+    <string name="wait">請等待...</string>
+
+
+
+
+
+</resources>
